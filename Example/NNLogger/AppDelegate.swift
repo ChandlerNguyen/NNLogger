@@ -16,6 +16,13 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
 
     func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplicationLaunchOptionsKey: Any]?) -> Bool {
         // Override point for customization after application launch.
+        
+        Logger.verbose("I am a message | Verbose |")
+        Logger.info("I am a message | Info |")
+        Logger.warning("I am a message | Warning |")
+        Logger.debug("I am a message | Debug |")
+        Logger.error("I am a message | Error |")
+        
         return true
     }
 
