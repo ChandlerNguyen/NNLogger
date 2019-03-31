@@ -1,9 +1,6 @@
 # NNLogger
 
-[![CI Status](https://img.shields.io/travis/Nang Nguyen/NNLogger.svg?style=flat)](https://travis-ci.org/Nang Nguyen/NNLogger)
-[![Version](https://img.shields.io/cocoapods/v/NNLogger.svg?style=flat)](https://cocoapods.org/pods/NNLogger)
-[![License](https://img.shields.io/cocoapods/l/NNLogger.svg?style=flat)](https://cocoapods.org/pods/NNLogger)
-[![Platform](https://img.shields.io/cocoapods/p/NNLogger.svg?style=flat)](https://cocoapods.org/pods/NNLogger)
+The NNLogger class is a simple wrapper class of the SwiftyBeaver logger library.
 
 ## Example
 
