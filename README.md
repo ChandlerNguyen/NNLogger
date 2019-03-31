@@ -22,7 +22,7 @@ pod 'NNLogger'
 
 ## Author
 
-Nang Nguyen, nang.nguyen@evizi.com
+Chandler Nguyen
 
 ## License
 
